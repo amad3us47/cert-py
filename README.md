@@ -3,3 +3,5 @@
 fetches all subdomains from cert.sh
 ___________________________________
 run = python3 certsh.py
+
+making it better per week
