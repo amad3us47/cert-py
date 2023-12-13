@@ -14,7 +14,7 @@ def scrape_domain(target_domain):
         if(links[0] != "*"):
             print(links)
 
-    main_url2 = f"https://subdomainfinder.c99.nl/scans/2023-12-11/{target_domain}"
+    main_url2 = f"https://subdomainfinder.c99.nl/scans/{target_domain}"
     main_headers2 = {"Content-Type": "text"}
     r2 = requests.get(main_url2, headers=main_headers2)
     soup2 = BeautifulSoup(r2.content, 'html5lib')
