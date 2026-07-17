@@ -1,4 +1,4 @@
-# by a hacker for hackers !!
+
 # cert-py
 fetches all subdomains from cert.sh and other sites
 
