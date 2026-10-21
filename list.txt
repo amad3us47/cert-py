@@ -1,0 +1,9 @@
+https://subdomainfinder.c99.nl/scans/2026-10-15/amazon.com
+https://api.hackertarget.com/hostsearch/?q=flipkart.com
+https://ctl.shodan.io/api/v1/domain/amazon.com
+https://crt.sh/?q=%25.<d>&output=json
+https://search.onyphe.io/search
+https://api.certspotter.com/v1/issuances
+https://crt.name/v1/search?apex=amazon.com
+https://chaos-data.projectdiscovery.io/amazon.zip
+https://dnsdumpster.com/
