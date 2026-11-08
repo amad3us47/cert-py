@@ -34,4 +34,3 @@ print("Saved to wayback_subdomains.txt")
 
 for host in sorted(subdomains):
     print(host)
-
